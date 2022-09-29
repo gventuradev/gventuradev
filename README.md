@@ -21,5 +21,5 @@
 <h3> 🤝🏻 Connect with me </h3>
 
 <p align="left">
-&nbsp; <a href="https://www.linkedin.com/in/germans-ventura/"><img width="30px" alt="LinkedIn" src="https://image.flaticon.com/icons/svg/1384/1384088.svg"></a>
-&nbsp; <a href="mailto:gventurait@hotmail.com"><img width="30px" alt="Email" src="https://image.flaticon.com/icons/svg/2991/2991151.svg"></a>
+&nbsp; <a href="https://www.linkedin.com/in/germans-ventura/">LinkedIn 👨‍💻</a>
+&nbsp; <a href="mailto:gventurait@hotmail.com">Email ⌨️</a>
