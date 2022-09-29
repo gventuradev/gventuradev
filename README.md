@@ -1,16 +1,25 @@
-### Hi there 👋
+<h2> Hey there! I'm Georgijs Ventura.</h2>
 
-<!--
-**gventuradev/gventuradev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 👱 About me </h3>
 
-Here are some ideas to get you started:
+- 🌱 &nbsp; Learning to program as a Self-Thought.
+- 🗺️ &nbsp; Exploring new technologies and developing frontend/backend solutions.
+- 💼 &nbsp; Working in my personal projects.
+- 🕸️ &nbsp; Pursuing Integration and Cloud.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>👨‍💻 Tech Stack</h3>
+
+- 💻 &nbsp; C# | .NET
+- 📰 &nbsp; REST | SOAP
+- 🌐 &nbsp; BizTalk
+- 🔧 &nbsp; Git | Azure DevOps
+
+<br/>
+
+[![gventuradev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=georgijsdev&show_icons=true)](https://github.com/gventuradev)
+
+<h3> 🤝🏻 Connect with me </h3>
+
+<p align="left">
+&nbsp; <a href="https://www.linkedin.com/in/germans-ventura/"><img width="30px" alt="LinkedIn" src="https://image.flaticon.com/icons/svg/1384/1384088.svg"></a>
+&nbsp; <a href="mailto:gventurait@hotmail.com"><img width="30px" alt="Email" src="https://image.flaticon.com/icons/svg/2991/2991151.svg"></a>
