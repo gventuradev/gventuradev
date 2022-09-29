@@ -22,4 +22,4 @@
 
 <p align="left">
 &nbsp; <a href="https://www.linkedin.com/in/germans-ventura/">LinkedIn 👨‍💻</a>
-&nbsp; <a href="mailto:gventurait@hotmail.com">Email ⌨️</a>
+&nbsp; <a href="mailto:gventurait@hotmail.com">Email ✉️</a>
